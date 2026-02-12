@@ -1,0 +1,11 @@
+[
+  {
+    "teamCode": "DEMO1",
+    "teamName": "Team Phoenix",
+    "passcode": "123456",
+    "active": true,
+    "hasSpun": true,
+    "reward": "Push Notification System",
+    "problemStatement": "PS-15"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "PS-01",
+    "title": "Fake Job & Recruitment Scam Detection",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-02",
+    "title": "Everyday Carbon Savings Tracker",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-03",
+    "title": "Meeting Notes Action Item Extractor",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-04",
+    "title": "Digital Reputation Score for SMBs",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-05",
+    "title": "Parking Spot Memory Helper",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-06",
+    "title": "Digital Footprint Analyzer",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-07",
+    "title": "P2P Skill Swap Credits Platform",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-08",
+    "title": "Inclusive Navigation & Safety Assistant",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-09",
+    "title": "Smart Email & Notification Prioritizer",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-10",
+    "title": "Real-Time Financial Stress Detection",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-11",
+    "title": "Sustainable Product Recommender",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-12",
+    "title": "Shared Grocery Shopping Optimizer",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-13",
+    "title": "Digital Consent & Transparency Platform",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-14",
+    "title": "Local Event Discovery for Introverts",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-15",
+    "title": "GenAI-Powered Financial Assistant",
+    "limit": 2,
+    "selectedTeams": [
+      "DEMO1"
+    ]
+  },
+  {
+    "id": "PS-16",
+    "title": "E-Waste & Carbon Lifecycle Tracker",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-17",
+    "title": "CropTrack: Pasture Biomass Intelligence",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-18",
+    "title": "BrightPath: Glaucoma Monitoring",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-19",
+    "title": "ECG Restore: Heart Signal Digitization",
+    "limit": 2,
+    "selectedTeams": []
+  },
+  {
+    "id": "PS-20",
+    "title": "Gamified Investment Coach for Students",
+    "limit": 2,
+    "selectedTeams": []
+  }
+]
