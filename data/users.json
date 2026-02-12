@@ -1,11 +1,308 @@
 [
   {
-    "teamCode": "DEMO1",
-    "teamName": "Team Phoenix",
-    "passcode": "123456",
+    "teamCode": "RW82A",
+    "teamName": "ReWaste AI",
+    "passcode": "482910",
     "active": true,
-    "hasSpun": true,
-    "reward": "Push Notification System",
-    "problemStatement": "PS-15"
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "BB19X",
+    "teamName": "Binary brains",
+    "passcode": "339281",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "SS44Q",
+    "teamName": "SUPREME SQUAD",
+    "passcode": "772104",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "RS90K",
+    "teamName": "RS Squad",
+    "passcode": "118593",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "CR27V",
+    "teamName": "CODERS REGIMENT",
+    "passcode": "664029",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "ZB51M",
+    "teamName": "ZEROBUG",
+    "passcode": "902384",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "LB03P",
+    "teamName": "Last Byte",
+    "passcode": "225196",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "RD12F",
+    "teamName": "Randoms",
+    "passcode": "558302",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "MW76G",
+    "teamName": "Most Wanted",
+    "passcode": "881273",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "IB38T",
+    "teamName": "InnoBytes",
+    "passcode": "447610",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "PR65W",
+    "teamName": "Power rangers",
+    "passcode": "129048",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "SC09N",
+    "teamName": "Shark Coders",
+    "passcode": "673219",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "TV42Y",
+    "teamName": "Terminal velocity",
+    "passcode": "384756",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "SC58L",
+    "teamName": "Sniper Chos",
+    "passcode": "992831",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "HS17H",
+    "teamName": "HOUSE STARKS",
+    "passcode": "516273",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "TX84J",
+    "teamName": "Tech X",
+    "passcode": "204918",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "BB33R",
+    "teamName": "Breaking Bugs",
+    "passcode": "773645",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "CN91U",
+    "teamName": "CyberNova",
+    "passcode": "810293",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "IE26E",
+    "teamName": "Impact Engineera",
+    "passcode": "465738",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "MI07S",
+    "teamName": "Mission impossible",
+    "passcode": "152940",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "VW55D",
+    "teamName": "VibeWarriors",
+    "passcode": "338472",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "SS14Z",
+    "teamName": "STACK SMASHERS",
+    "passcode": "602938",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "CT88B",
+    "teamName": "Clock tower coders",
+    "passcode": "827364",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "BH22A",
+    "teamName": "BuildHive",
+    "passcode": "910234",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "UB67I",
+    "teamName": "UNBEATEN",
+    "passcode": "556712",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "CC49O",
+    "teamName": "Cyber Cats",
+    "passcode": "419283",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "TP11K",
+    "teamName": "TECH PENTA",
+    "passcode": "662738",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "PM39M",
+    "teamName": "project mayhem",
+    "passcode": "102938",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "SS05T",
+    "teamName": "Shadow Stacks",
+    "passcode": "884726",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "AC71V",
+    "teamName": "Ascend",
+    "passcode": "329485",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "CA92X",
+    "teamName": "Cognix AML",
+    "passcode": "771029",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "AN88P",
+    "teamName": "Adengapoa naalu peru",
+    "passcode": "514263",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "CS13G",
+    "teamName": "Cyber Squad",
+    "passcode": "229384",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
+  },
+  {
+    "teamCode": "PC30H",
+    "teamName": "pentacyber",
+    "passcode": "603948",
+    "active": true,
+    "hasSpun": false,
+    "reward": null,
+    "problemStatement": null
   }
 ]
