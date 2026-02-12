@@ -290,7 +290,7 @@ function auth(req, res, next) {
 ========================= */
 
 // 1. Add Team
-app.post("/api/admin/team/add",adminAuth, (req, res) => {
+app.post("/api/admin/team/add", (req, res) => {
   const { teamName, teamCode, passcode } = req.body;
   const users = readJson(USERS_DB, []);
   users.push({
@@ -307,7 +307,7 @@ app.post("/api/admin/team/add",adminAuth, (req, res) => {
 });
 
 // 2. Toggle Active Status
-app.post("/api/admin/team/toggle",adminAuth, (req, res) => {
+app.post("/api/admin/team/toggle", (req, res) => {
   const { teamCode } = req.body;
   const users = readJson(USERS_DB, []);
   const user = users.find(u => u.teamCode === teamCode);
@@ -356,7 +356,7 @@ app.post("/api/admin/team/delete",superadminAuth, (req, res) => {
 });
 
 // 6. Login Lock Toggle
-app.post("/api/admin/login-lock",adminAuth, (req, res) => {
+app.post("/api/admin/login-lock", (req, res) => {
   const { enabled } = req.body;
   writeJson(CONFIG_DB, { loginEnabled: enabled });
   res.json({ success: true });
